@@ -31,10 +31,27 @@ body
 }
 #content
 {
-    background-color: rgb(118, 206, 137);
+    /*background-color: rgb(118, 206, 137);*/
     margin-left: 160px;
 }
 #footer
 {
     background-color: greenyellow;
+}
+
+#sourceForm
+{
+    background-color: rgb(199, 211, 33);
+}
+
+#targetForm
+{
+    background-color: cornflowerblue;
+}
+
+.forms
+{
+    border-radius: 5px;
+    padding: 10px;
+    width: 400px;
 }
